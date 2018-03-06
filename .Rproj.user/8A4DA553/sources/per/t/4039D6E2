@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520316617339.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4039D6E2",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1520316617339,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FFD8551E",
+        "caption" : "transposed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=transposed&cache_key=FFD8551E",
+        "displayedObservations" : "99",
+        "environment" : "",
+        "object" : "transposed",
+        "preview" : "0",
+        "totalObservations" : "99",
+        "variables" : "100"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

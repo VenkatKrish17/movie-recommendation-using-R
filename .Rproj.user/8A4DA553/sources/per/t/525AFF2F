@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520314198944.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2655167271",
+    "id" : "525AFF2F",
+    "lastKnownWriteTime" : 1520296647,
+    "last_content_update" : 1520296647,
+    "path" : "E:/STUDIES/UNIT - 5/Unit 5 - Day 10/Recommendation_WS/Recommendation_R/recommender-samplecode-v3.R",
+    "project_path" : "recommender-samplecode-v3.R",
+    "properties" : {
+        "cursorPosition" : "88,51",
+        "scrollLine" : "39"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

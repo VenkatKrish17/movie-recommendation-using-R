@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520314211716.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2418907060",
+    "id" : "3F9BDF3F",
+    "lastKnownWriteTime" : 1520296647,
+    "last_content_update" : 1520296647,
+    "path" : "E:/STUDIES/UNIT - 5/Unit 5 - Day 10/Recommendation_WS/Recommendation_R/recommenderlab-demo-v4.R",
+    "project_path" : "recommenderlab-demo-v4.R",
+    "properties" : {
+        "cursorPosition" : "86,26",
+        "scrollLine" : "78"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
